@@ -5,3 +5,6 @@
 - to diverge
 
 - more stuff?
+
+## Getting started
+- Do anything you like!
